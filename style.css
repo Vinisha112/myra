@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/02/49/78/45/360_F_249784546_xfCMlUczQB8PU8mpXzBPo0hNKVJ4OlTB.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 2000%;
+    text-align: center;
+}
+
+.carrige{
+    text-align: center;
+}
+
+.my{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quintessential';
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Serif 4', serif;
+}
+
+.mk{
+  font-style: italic;  
+}
+
+a{
+    font-size: 30px;
+}
+
+h2{
+    font-style: oblique;
+}
+
+.pl{
+    font-style: italic;
+}
+
+.end{
+    font-style: italic;
+}
